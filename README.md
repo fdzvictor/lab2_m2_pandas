@@ -9,7 +9,7 @@ Final database has 18 rows for 513 total observations, with no duplicated values
 
 The main languages are English, Hindi and Spanish. English conforms 68% of the main languages, in line with the main target audience (USA and UK) 
 
-Most shows are from 2019 and 2020 (52%), but first commers are from 2014, the year the platform was introduced. During the first aforementioned years, the COVID pandemic skyrocketed the demand and consumption of on-line content, which justifies that netflix released some more shows.
+Most shows are from 2019 and 2020 (52%), but first comers are from 2014, the year the platform was introduced. During the first aforementioned years, the COVID pandemic skyrocketed the demand and consumption of on-line content, which justifies that netflix released some more shows.
 
 In regards to the content, most popular shows are documentaries (25,7%) and Drama shows (14,2%). Least posted shows are Mockumentaries and Drama/horror (both 1,9%).
 Most shows are rated 5.8 by IMDB (58% of total obs), those with a rating over 7 points only conform around the 30% of the database. This can lead to the ratification of netflix as a commercial mass-media distributor, versus other platforms which focus on higher-quality, more expensive content, such as Filmin or Disney+.
